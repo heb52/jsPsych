@@ -1,6 +1,6 @@
         // Use JSDELIVR to get the files from a GitHub repository
         // https://cdn.jsdelivr.net/gh/<github-username>/<repository-name>/<specific folder or file>
-        var repo_site = "https://heb52.github.io/jsPsych/";
+        var repo_site = "https://cdn.jsdelivr.net/gh/heb52/jsPsych/";
 
         /* experiment parameters */
         var reps_per_trial_type = 4;
