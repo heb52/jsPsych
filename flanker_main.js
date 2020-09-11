@@ -3,7 +3,7 @@
         var repo_site = "https://heb52.github.io/jsPsych/";
 
         /* experiment parameters */
-        var reps_per_trial_type = 4;
+        var reps_per_trial_type = 60;
 
         /*set up welcome block*/
         var welcome = {
